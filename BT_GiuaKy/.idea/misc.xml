@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable-v24/border_avatar.xml" value="0.198" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable-v24/custom_signin_signup.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable-v24/custom_signinbtn.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable-v24/gradient.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable-v24/gradient_follow.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable-v24/ic_baseline_arrow_back_ios_24.xml" value="0.198" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable/custom_color_bottom_nav.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1785" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/layout/activity_chitiet.xml" value="0.1" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/layout/activity_main_dang_ky.xml" value="0.22826086956521738" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/layout/activity_profile_fragment.xml" value="0.264" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/layout/activity_trang_chu_fragment.xml" value="0.1" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/layout/dong_dong_vat.xml" value="0.11770157553290084" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/layout/dong_truyen.xml" value="0.2" />
+        <entry key="..\:/mobile/Mobile/BT_GiuaKy/app/src/main/res/menu/menu_bottom_nav.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22826086956521738" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
